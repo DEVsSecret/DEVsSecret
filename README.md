@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**DEVsSecret/DEVsSecret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3f3f3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Secret;I'm+20+years+old;I'm+from+nowhere;I'm+a+NFT+collector+and+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center"> <img src="https://user-images.githubusercontent.com/122627210/212360548-795d1e53-9dec-47ed-87cb-2203da58a622.gif"/></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center"> 
+  
+###  **A NFT's collector.**
+# **`+18`**
+
+### **Visitors Count.**
+
+<div align="center">
+      <img src="https://count.getloli.com/get/@DEVsSecret?theme=rule34.xxx"/>
+
+</div>
